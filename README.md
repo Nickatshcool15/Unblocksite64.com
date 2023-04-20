@@ -23,8 +23,7 @@ Visit https:https://ngg.798sc.com/
 Visit https://github.com/jlord/sheetsee.js/issues/268443	
 
 
-Port	Service	
-8443	HTTPS	
+
 
 $ sudo ufw status numbered
 $ sudo cp -r /etc/ufw ~/ufw.backup
